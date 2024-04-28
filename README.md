@@ -6,7 +6,7 @@ Eu utilizei nesta aplição o banco de dados postgresql, tenha-o instalado na m�
 - spring.datasource.url=jdbc:postgresql://localhost:5432/{nomedobanco}
 - spring.datasource.username={nomeusuario}
 - spring.datasource.password={senhabanco}
-assim que executar o arquivo main, as tabelas estabelecidas pelo código no spring boot devem criar as tabelas e está pronto para alimenta-las com as chamadas do front-end
+- assim que executar o arquivo main, as tabelas estabelecidas pelo código no spring boot devem criar as tabelas e está pronto para alimenta-las com as chamadas do front-end
 
 # Bibliotecas utilizadas
 ## Spring
