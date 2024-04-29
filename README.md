@@ -1,5 +1,12 @@
 # Instalação
-Para instalação das dependências deste projeto, na IDE eclipse, clique em cima do arquivo pom.xml coloque o mouse em "RUN AS" e clique em Maven Install, todas as dependências serão instaladas.
+1 - Para instalação das dependências deste projeto, na IDE eclipse, clique em cima do arquivo pom.xml coloque o mouse em "RUN AS" e clique em Maven Install, todas as dependências serão instaladas.
+2 - Crie um usuário médico fazendo uma requisição com plataformas como o Postman com o seguinte corpo:
+{
+   "name": "Nome aqui",
+   "cpf":  "Cpf aqui",
+   "senha": "Senha aqui",
+   "role": "MEDICO"
+}
 
 # Banco de dados
 Eu utilizei nesta aplição o banco de dados postgresql, tenha-o instalado na máquina, então abra o arquivo application.properties e faça a seguinte configuração:
