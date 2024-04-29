@@ -1,6 +1,6 @@
 # Instalação
-1 - Para instalação das dependências deste projeto, na IDE eclipse, clique em cima do arquivo pom.xml coloque o mouse em "RUN AS" e clique em Maven Install, todas as dependências serão instaladas.
-2 - Crie um usuário médico fazendo uma requisição com plataformas como o Postman com o seguinte corpo:
+- 1 Para instalação das dependências deste projeto, na IDE eclipse, clique em cima do arquivo pom.xml coloque o mouse em "RUN AS" e clique em Maven Install, todas as dependências serão instaladas.
+- 2 Crie um usuário médico fazendo uma requisição com plataformas como o Postman com o seguinte corpo:
 {
    "name": "Nome aqui",
    "cpf":  "Cpf aqui",
